@@ -42,6 +42,11 @@ Begin with the first form of data binding&mdash;interpolation&mdash;to see how m
 
 {@a interpolation}
 
+## SVG in templates
+
+Scalable Vector Graphics (SVG) is an XML-based vector image format for two-dimensional graphics with support for interactivity and animation. 
+You can use the SVG as valid template in Angular, all the template syntax which you are going to learn in next sections are applicable to SVG as well.
+
 ## Interpolation and Template Expressions
 
 Interpolation allows you to incorporate calculated strings into the text
